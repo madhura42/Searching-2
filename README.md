@@ -1,7 +1,4 @@
-# B551 Assignment 1: Searching
-
-**Submitted by:** Sidharth Vishnu Bhakth, Madhura Bartakke, Shreyas Bhujbal / svbhakth-mabartak-sbhujbal
-
+# Searching
 **Part 1: The Luddy puzzle**
 
 **Search Abstraction:** The program uses an A* search algorithm which finds the optimal solution to the problem. The algorithm is implemented with a priority queue with a cost function and a heuristic function. The state with the lowest combination of cost + heuristic will be popped from the priority queue and used to find the optimal path.
